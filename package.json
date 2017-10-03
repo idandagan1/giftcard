@@ -1,0 +1,25 @@
+{
+  "name": "giftcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idandagan1/giftcard.git"
+  },
+  "author": "Idan Dagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idandagan1/giftcard/issues"
+  },
+  "homepage": "https://github.com/idandagan1/giftcard#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongoose": "^4.12.0"
+  }
+}
